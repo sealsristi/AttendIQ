@@ -59,7 +59,7 @@ AttendIQ/
 ### 1. Download and install
 
 ```bash
-git clone https://github.com/DebjitXD/AttendIQ.git
+git clone https://github.com/sealsristi/AttendIQ.git
 cd AttendIQ
 pip install -r requirements.txt
 ```
