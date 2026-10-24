@@ -208,7 +208,7 @@ The ESP32 asks the server for updates every 2 seconds. It shows the active sessi
 ## Team
 
 - **Sristi Seal** - [@sealsristi](https://github.com/sealsristi)
-- **Sristi Seal** - [@sealsristi](https://github.com/sealsristi)
+- **Debjit Biswas** - [@DeabjitXD](https://github.com/DebjitXD)
 
 ## License
 
