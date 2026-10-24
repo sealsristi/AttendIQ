@@ -1,3 +1,4 @@
+
 # 📋 AttendIQ - Smart QR Attendance System
 
 A QR-based classroom attendance system. Students fill a short form on their phone and get a
@@ -6,6 +7,7 @@ and an **ESP32 with a TFT display** shows the student's details live.
 
 ![AttendIQ dashboard](images/dashboard.png)
 <!-- Add your screenshots: images/dashboard.png (teacher panel) and images/circuit.jpg (ESP32 + TFT) -->
+<img width="1917" height="860" alt="Screenshot 2026-10-24 231705" src="https://github.com/user-attachments/assets/1c6fb6c8-fd3f-4bba-8839-2e2e29fcb906" />
 
 ## How it works
 
